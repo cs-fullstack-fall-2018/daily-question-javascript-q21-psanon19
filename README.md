@@ -2,6 +2,8 @@
 
 ### Try/Catch/Throw
 
+KEY: Well done on the QOD! Correct!
+
 The experimentWithTries() function in the following HTML page throws and catches exceptions:
 
 ```
